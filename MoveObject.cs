@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//скрипт для движения объекта по одной из оси
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
